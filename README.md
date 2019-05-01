@@ -1,3 +1,3 @@
 # notes
-<b>A place to share some observations and thoughts</b>
-<hr>This is essentially a text file. Not software, not currently built for anything technical.</hr>
+
+Did you get here by accident? This space is where I compile some lists to share with some folks. Feel free to browse, although to be honest, you're better served visiting a site like aldaily.com.
